@@ -16,5 +16,5 @@ export class ListeCvComponent implements OnInit {
   selectPersonne(selectedPersonne) {
     this.selectedPersonne.emit(selectedPersonne);
   }
-
+  // test commit
 }
